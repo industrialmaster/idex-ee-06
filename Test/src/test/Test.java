@@ -5,6 +5,8 @@
  */
 package test;
 
+import java.util.Date;
+
 /**
  *
  * @author Nadun Liyanage
@@ -20,6 +22,7 @@ public class Test {
         System.out.println("dsdn");
         
         System.out.println("dddddddddddd");
+        Date date  = new Date();
     }
     
 }
